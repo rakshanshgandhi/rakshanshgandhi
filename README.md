@@ -2,7 +2,21 @@
 
 
 # 👨‍💻 About Me:
-🔭 I’m currently working on FullStack web applications.<br><br>👯 I’m looking to collaborate on:<br>Full-stack projects using modern web frameworks and cloud deployments.<br><br>🤝 I’m looking for help with:<br>Improving web app performance, database optimization.<br><br>🌱 I’m currently learning:<br>AI/ML, LLMs, LangChain framework and Cloud Infrastructure.<br><br>💬 Ask me about:<br>Full-stack development and best practices in web architecture.
+<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" height="200" width="300">
+
+🔭 I'm currently working on FullStack web applications.
+
+👯 I'm looking to collaborate on:<br>
+Full-stack projects using modern web frameworks and cloud deployments.
+
+🤝 I'm looking for help with:<br>
+Improving web app performance, database optimization.
+
+🌱 I'm currently learning:<br>
+AI/ML, LLMs, LangChain framework, and Cloud Infrastructure.
+
+💬 Ask me about:<br>
+Full-stack development and best practices in web architecture.
 <hr style="height:4px; border:none; background-color:#D3D3D3;">
 
 
