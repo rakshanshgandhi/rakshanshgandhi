@@ -2,7 +2,7 @@
 
 
 # 👨‍💻 About Me:
-<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" height="200" width="300">
+<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" height="200" width="330">
 
 🔭 I'm currently working on FullStack web applications.
 
