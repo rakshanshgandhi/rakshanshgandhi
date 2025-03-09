@@ -1,9 +1,10 @@
 <h1 align="center">Hi there! I am Rakshansh Gandhi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
+<div align="center">
+<img align="center" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" height="200" style="max-width: 100%">
+</div>
 
 # 👨‍💻 About Me:
-<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" height="200" width="330">
-
 🔭 I'm currently working on FullStack web applications.
 
 👯 I'm looking to collaborate on:<br>
