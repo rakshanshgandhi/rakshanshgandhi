@@ -27,8 +27,8 @@ Full-stack development and best practices in web architecture.
 <hr style="height:4px; border:none; background-color:#D3D3D3;">
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=rakshanshgandhi&theme=github_dark&hide_border=false&v=1)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakshanshgandhi&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&v=1) 
+![](https://nirzak-streak-stats.vercel.app/?user=rakshanshgandhi&theme=github_dark&hide_border=false&v=2)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakshanshgandhi&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&v=2) 
 <hr style="height:5px; border:none; background-color:#D3D3D3;">
 
 ## 🌐 Socials:
